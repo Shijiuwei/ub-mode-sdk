@@ -1,0 +1,5 @@
+title: "ub-mode-sdk"
+description: "Cloud-native implementation of ub-mode with automated deployment and monitoring."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
